@@ -1,0 +1,22 @@
+{
+  "name": "PodTest",
+  "version": "0.1.0",
+  "summary": "A short description of PodTest.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/窦川江/PodTest",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "窦川江": "380569559@qq.com"
+  },
+  "source": {
+    "git": "https://github.com/窦川江/PodTest.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "10.0"
+  },
+  "source_files": "PodTest/Classes/**/*"
+}
